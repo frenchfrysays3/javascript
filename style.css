@@ -1,1 +1,24 @@
+body {
+  font-family: 'arial', sans-serif;
+}
 
+
+p {
+  text-color: black;
+  text-background: transparent;
+  text-decoration: none;
+}
+
+
+h1 {
+  text-color: red;
+  text-background: transparent;
+  text-decoration: none;
+}
+
+
+h2 {
+  text-color: yellow;
+  text-background: transparent;
+  text-decoration: none;
+}
